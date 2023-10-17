@@ -14,6 +14,10 @@
   - 
 
 
+<h2> Certifications</h2>
+- <b> Google Crash Course on Python - Issued 21st June 2021 </b>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
