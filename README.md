@@ -3,10 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/kenechukz/LeetcodeDSA-Practice)
-- <b>Full Stack Web App (DJango, Python)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>C</b>
+  - [Praciting DS & Algorithms in Python](https://github.com/kenechukz/LeetcodeDSA-Practice)
+  - [All Ireland Programming Olymiad 2022](https://github.com/kenechukz/AIPO2022)- <b>C</b>
   - 
   - 
   - 
