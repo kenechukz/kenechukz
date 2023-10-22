@@ -4,7 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algorithms in Python](https://github.com/kenechukz/LeetcodeDSA-Practice)
-  - [All Ireland Programming Olymiad 2022](https://github.com/kenechukz/AIPO2022)- <b>C</b>
+  - [All Ireland Programming Olymiad 2022](https://github.com/kenechukz/AIPO2022)
+  - <b>C</b>
   - 
   - 
   - 
