@@ -8,7 +8,7 @@
 - <b>Python</b>
   - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
   - [Online course website built within Django Framework](https://github.com/kenechukz/CourseWebPage)
-- <b>Web Development Prpjects</b>
+- <b>Web Development Projects</b>
   - 
 
 <h2> Certifications</h2>
