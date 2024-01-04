@@ -9,8 +9,7 @@
   - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
   - [Online course website built within Django Framework](https://github.com/kenechukz/CourseWebPage)
 - <b>Web Development Projects</b>
-  - 
-
+  -  [Web Development Projects](https://github.com/kenechukz/WebDevProjects)
 <h2> Certifications</h2>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
 
