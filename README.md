@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algorithms in Python](https://github.com/kenechukz/LeetcodeDSA-Practice)
-  - [All Ireland Programming Olymiad 2022](https://github.com/kenechukz/AIPO2022)
+  - [All Ireland Programming Olympiad 2022](https://github.com/kenechukz/AIPO2022)
 - <b>Python</b>
   - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
   - [Online course website built within Django Framework](https://github.com/kenechukz/CourseWebPage)
