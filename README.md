@@ -10,6 +10,7 @@
   - [Online course website built within Django Framework](https://github.com/kenechukz/CourseWebPage)
 - <b>Web Development Projects</b>
   -  [Web Development Projects](https://github.com/kenechukz/WebDevProjects)
+  -  [Ecommerce Website](https://github.com/kenechukz/EcommerceWebsite)
 <h2> Certifications</h2>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
 
