@@ -18,7 +18,18 @@
 
 <h2> Languages and Libraries</h2>
 - <b>Python, HTML, CSS, JS, PHP, C, Java, Git, VS code, MySQL, React </b>
-[<img align="left" alt="DeclanChukwu" width="22px" src="https://github.com/user-attachments/assets/9408cbcf-0c5a-4603-a040-484a9015f99c" />][python]   
+[<img align="left" alt="DeclanChukwu" width="22px" src="https://github.com/user-attachments/assets/bc8212b6-8619-407e-a8c8-3a3115102f92" />][python]
+[<img align="left" alt="DeclanChukwu" width="22px" src="https://github.com/user-attachments/assets/21243fb8-2c1e-4b39-9551-8285b1730837" />][html]  
+[<img align="left" alt="DeclanChukwu" width="22px" src="https://github.com/user-attachments/assets/f46d08fb-b26d-47c9-b427-72cadda21e09" />][javascript]  
+[<img align="left" alt="DeclanChukwu" width="22px" src="https://github.com/user-attachments/assets/cb56e9e9-1c3f-485f-ac52-cc23fd53362e" />][css]  
+[<img align="left" alt="DeclanChukwu" width="22px" src="https://github.com/user-attachments/assets/04bf34a5-d048-469c-a8a9-acaa5b005824" />][c]  
+
+
+
+
+
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
