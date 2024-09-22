@@ -17,7 +17,7 @@
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
 
 <h2> Languages and Libraries</h2>
-[<img align="left" alt="Python" width="33px" src="https://github.com/user-attachments/assets/bc8212b6-8619-407e-a8c8-3a3115102f92" />]
+[<img align="left" alt="Python" width="33px" src="https://github.com/user-attachments/assets/bc8212b6-8619-407e-a8c8-3a3115102f92" />][python]
 [<img align="left" alt="HTML" width="33px" src="https://github.com/user-attachments/assets/21243fb8-2c1e-4b39-9551-8285b1730837" />]
 [<img align="left" alt="CSS" width="33px" src="https://github.com/user-attachments/assets/cb56e9e9-1c3f-485f-ac52-cc23fd53362e" />] 
 [<img align="left" alt="JS" width="33px" src="https://github.com/user-attachments/assets/f46d08fb-b26d-47c9-b427-72cadda21e09" />]
