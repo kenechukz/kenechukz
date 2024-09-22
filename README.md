@@ -16,6 +16,9 @@
 <h2> Certifications</h2>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
 
+<h2> Languages and Libraries</h2>
+- <b>Python, HTML, CSS, JS, PHP, C, Java, Git, VS code, MySQL, React </b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
