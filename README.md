@@ -13,7 +13,7 @@
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Portfolio Website](https://github.com/kenechukz/PortfolioWebpage)
   -  [Barber Website](https://github.com/kenechukz/BarberWebsite)
-  -  [TinDog](https://github.com/kenechukz/BarberWebsite)
+  -  [TinDog](https://github.com/kenechukz/TinDog)
 <h2> Certifications</h2>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
 
