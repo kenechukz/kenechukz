@@ -16,6 +16,7 @@
   -  [TinDog](https://github.com/kenechukz/TinDog)
 - <b>C</b>
   - [Command Line Gantt Chart](https://github.com/kenechukz/GanttChart)
+  - [Command Line Kanban Board](https://github.com/kenechukz/KanbanBoard)
     
 <h2> Certifications</h2>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
