@@ -7,7 +7,6 @@
   - [All Ireland Programming Olympiad 2022](https://github.com/kenechukz/AIPO2022)
 - <b>Python</b>
   - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
-  - [Online course website built within Django Framework](https://github.com/kenechukz/CourseWebPage)
 - <b>Web Development Projects</b>
   -  [Web Development Projects](https://github.com/kenechukz/WebDevProjects)
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
