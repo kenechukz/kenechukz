@@ -12,7 +12,7 @@
   -  [Web Development Projects](https://github.com/kenechukz/WebDevProjects)
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Portfolio Website](https://github.com/kenechukz/PortfolioWebpage)
-  -  [Barber Website](https://github.com/kenechukz/BarberWebsite)
+  -  [Service Website](https://github.com/kenechukz/ServiceWebsite)
   -  [TinDog](https://github.com/kenechukz/TinDog)
 - <b>C</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
