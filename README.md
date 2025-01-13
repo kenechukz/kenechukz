@@ -17,6 +17,10 @@
 - <b>C</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
+- <b>Databases and MySQL</b>
+  - [Department Vacancies Database](https://github.com/kenechukz/DepartmentsVacanciesDatabase-)
+ 
+  
     
 <h2> Certifications</h2>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
