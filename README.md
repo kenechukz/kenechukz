@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting Data Structures and Algorithms](https://github.com/kenechukz/LeetcodeDSA-Practice)
+  - [Practicing Data Structures and Algorithms](https://github.com/kenechukz/LeetcodeDSA-Practice)
   - [All Ireland Programming Olympiad 2022](https://github.com/kenechukz/AIPO2022)
 - <b>Python</b>
   - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
