@@ -34,8 +34,7 @@
 <img align="left" alt="MySQL" width="33px" src="https://github.com/user-attachments/assets/35f22d81-cb45-4101-b097-0884eb7c4fe8" /> 
 <img align="left" alt="VSCode" width="33px" src="https://github.com/user-attachments/assets/06cede70-ffd9-460c-a057-2c2b6af68416" /> 
 <img align="left" alt="React" width="33px" src="https://github.com/user-attachments/assets/3d33d82f-f7e9-413c-9c72-a9a95c92c952" /> 
-<img align="left" alt="Bash" width="33px" src="![image](https://github.com/user-attachments/assets/6ca1f6ce-29b1-4716-81af-d348a8e3fc63)
-" /> 
+<img align="left" alt="Bash" width="33px" src="https://github.com/user-attachments/assets/6ca1f6ce-29b1-4716-81af-d348a8e3fc63" /> 
 </br>
 </br>
 
