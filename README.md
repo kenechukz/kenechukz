@@ -21,6 +21,7 @@
   
     
 <h2> Certifications</h2>
+- <b> Neural Networks and Deep Learning by DeapLearning.AI - Issued 7th June 2025 </b>
 - <b> Google Crash Course on Python - Issued 21st June 2021 </b>
 
 <h2> Languages and Libraries</h2>
