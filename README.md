@@ -16,6 +16,8 @@
 - <b>Databases and MySQL</b>
   - [Department Vacancies Database](https://github.com/kenechukz/DepartmentsVacanciesDatabase-)
  
+- Have a look at my pinned repositories!
+ 
   
     
 <h2> Certifications</h2>
