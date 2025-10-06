@@ -10,9 +10,10 @@
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Appointment Scheduling Website](https://github.com/kenechukz/Appointment-Scheduling-Site)
   -  [TinDog](https://github.com/kenechukz/TinDog)
-- <b>C</b>
+- <b>School Projects (C, Java)</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
+  - [Hexoust Game](https://github.com/Megomaz/Software-Engineering-project-2-23739461-23318116-23318136)
 - <b>Databases and MySQL</b>
   - [Department Vacancies Database](https://github.com/kenechukz/DepartmentsVacanciesDatabase-)
  
