@@ -38,7 +38,7 @@
 <img align="left" alt="VSCode" width="33px" src="https://github.com/user-attachments/assets/06cede70-ffd9-460c-a057-2c2b6af68416" /> 
 <img align="left" alt="React" width="33px" src="https://github.com/user-attachments/assets/3d33d82f-f7e9-413c-9c72-a9a95c92c952" /> 
 <img align="left" alt="Bash" width="33px" src="https://github.com/user-attachments/assets/6ca1f6ce-29b1-4716-81af-d348a8e3fc63" /> 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/32bfee1d-dc26-4754-8b0e-b726455f9299" />
+<img align="left" alt="Bash" width="33px" src="https://github.com/user-attachments/assets/32bfee1d-dc26-4754-8b0e-b726455f9299" />
 </br>
 </br>
 
