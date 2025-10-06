@@ -8,7 +8,7 @@
   - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
 - <b>Web Development Projects</b>
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
-  -  [Service Website](https://github.com/kenechukz/Appointment-Scheduling-Site)
+  -  [Appointment Scheduling Website](https://github.com/kenechukz/Appointment-Scheduling-Site)
   -  [TinDog](https://github.com/kenechukz/TinDog)
 - <b>C</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
