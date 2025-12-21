@@ -9,7 +9,7 @@
 - <b>Web Development Projects</b>
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Appointment Scheduling Website](https://github.com/kenechukz/Appointment-Scheduling-Site)
-  -  [TinDog](https://github.com/kenechukz/TinDog)
+  -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
 - <b>School Projects (C, Java)</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
