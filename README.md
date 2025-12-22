@@ -4,8 +4,6 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing Data Structures and Algorithms](https://github.com/kenechukz/LeetcodeDSA-Practice)
-- <b>Python</b>
-  - [Working with CSV files and Panda library](https://github.com/kenechukz/PythonPanda-CSVfiles)
 - <b>Web Development Projects</b>
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Appointment Scheduling Website](https://github.com/kenechukz/Appointment-Scheduling-Site)
