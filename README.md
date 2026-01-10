@@ -8,7 +8,7 @@
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
   -  [ReVibe - AI powered thrift store marketplace (Built during 2025 Google BGN Hackathon)](https://github.com/bgn-hackerton-2025/backend)
-- <b>School Projects (C, Java)</b>
+- <b>School Projects</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
   - [Hexoust Game](https://github.com/Megomaz/Software-Engineering-project-2-23739461-23318116-23318136)
