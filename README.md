@@ -8,6 +8,7 @@
   -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
   -  [Appointment Scheduling Website](https://github.com/kenechukz/Appointment-Scheduling-Site)
   -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
+  -  [ReVibe - AI powered thrift store marketplace](https://github.com/bgn-hackerton-2025/backend)
 - <b>School Projects (C, Java)</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
