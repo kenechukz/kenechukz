@@ -4,10 +4,12 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing Data Structures and Algorithms](https://github.com/kenechukz/LeetcodeDSA-Practice)
-- <b>Web Development Projects</b>
-  -  [Ecommerce Website](https://github.com/kenechukz/E-commerceWebsite)
+- <b>Web Apps</b>
   -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
   -  [ReVibe - AI powered thrift store marketplace (Built during 2025 Google BGN Hackathon)](https://github.com/bgn-hackerton-2025/backend)
+- <b>Freelance Websites</b>
+  -  [Medical GP Page](https://github.com/kenechukz/inspired-care-connect)
+  -  [Dance Competition Company Page](https://github.com/bgn-hackerton-2025/dance-empire-spotlight)
 - <b>School Projects</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
