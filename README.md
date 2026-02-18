@@ -43,6 +43,12 @@
 <img align="left" alt="React" width="33px" src="https://github.com/user-attachments/assets/3d33d82f-f7e9-413c-9c72-a9a95c92c952" /> 
 <img align="left" alt="Bash" width="33px" src="https://github.com/user-attachments/assets/6ca1f6ce-29b1-4716-81af-d348a8e3fc63" /> 
 <img align="left" alt="Bash" width="33px" src="https://github.com/user-attachments/assets/32bfee1d-dc26-4754-8b0e-b726455f9299" />
+<img align="left" width="33px" alt="Docker" src="https://github.com/user-attachments/assets/56dcd655-0c34-4b46-a402-3ac298987cd9" />
+<img align="left" width="33px"  alt="Pytorch" src="https://github.com/user-attachments/assets/cd2857c8-db9d-4335-9c55-9b926b0391f8" />
+<img align="left" width="33px" alt="Django" src="https://github.com/user-attachments/assets/176ba644-120c-4f80-b84a-51cd7fb14bd8" />
+
+
+
 </br>
 </br>
 
