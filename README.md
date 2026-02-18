@@ -21,10 +21,14 @@
  
   
     
-- <h2> Certifications</h2>
-  - Neural Networks and Deep Learning by DeapLearning.AI ~ Issued June 2025
-  - Google Crash Course on Python ~ Issued June 2021
-  - Mastering the System Design Interview ~ Issue September 2025
+<h2>Certifications</h2>
+
+<ul>
+  <li>Neural Networks and Deep Learning by DeepLearning.AI ~ Issued June 2025</li>
+  <li>Google Crash Course on Python ~ Issued June 2021</li>
+  <li>Mastering the System Design Interview ~ Issued September 2025</li>
+</ul>
+
 
 <h2> Languages and Libraries</h2>
 <img align="left" alt="Python" width="33px" src="https://github.com/user-attachments/assets/bc8212b6-8619-407e-a8c8-3a3115102f92" />
