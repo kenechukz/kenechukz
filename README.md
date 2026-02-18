@@ -8,6 +8,7 @@
   -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
   -  [ReVibe - AI powered thrift store marketplace (Built during 2025 Google BGN Hackathon)](https://github.com/bgn-hackerton-2025/backend)
 - <b>Freelance Websites</b>
+  -  [Portfolio Site](https://kpdesigns.dev)
   -  [Medical GP Page](https://github.com/kenechukz/inspired-care-connect)
   -  [Dance Competition Company Page](https://github.com/bgn-hackerton-2025/dance-empire-spotlight)
 - <b>School Projects</b>
