@@ -10,7 +10,7 @@
 - <b>Freelance Websites</b>
   -  [Portfolio Site](https://kpdesigns.dev)
   -  [Medical GP Page](https://github.com/kenechukz/inspired-care-connect)
-  -  [Dance Competition Company Page](https://github.com/bgn-hackerton-2025/dance-empire-spotlight)
+  -  [Dance Competition Company Page](https://github.com/dance-empire-spotlight)
 - <b>School Projects</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
