@@ -9,8 +9,8 @@
   -  [ReVibe - AI powered thrift store marketplace (Built during 2025 Google BGN Hackathon)](https://github.com/bgn-hackerton-2025/backend)
 - <b>Freelance Websites</b>
   -  [Portfolio Site](https://kpdesigns.dev)
-  -  [Medical GP Page](https://github.com/kenechukz/inspired-care-connect)
-  -  [Dance Competition Company Page](https://github.com/kenechukz/dance-empire-spotlight)
+  -  [Medical GP Page](https://www.inspiredgp.com/)
+  -  [Dance Competition Company Page](https://www.danceempire.org/)
 - <b>School Projects</b>
   - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
