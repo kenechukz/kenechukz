@@ -7,6 +7,7 @@
 - <b>Web Apps</b>
   -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
   -  [ReVibe - AI powered thrift store marketplace (Built during 2025 Google BGN Hackathon)](https://github.com/bgn-hackerton-2025/backend)
+  -  [@everyone - One button, instant help (Built during HackEurope 2026)](https://github.com/noel-friedrich/-everyone)
 - <b>Freelance Websites</b>
   -  [Portfolio Site](https://kpdesigns.dev)
   -  [Medical GP Page](https://www.inspiredgp.com/)
