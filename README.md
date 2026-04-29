@@ -13,10 +13,8 @@
   -  [Medical GP Page](https://www.inspiredgp.com/)
   -  [Dance Competition Company Page](https://www.danceempire.org/)
 - <b>School Projects</b>
-  - [Gantt Chart](https://github.com/kenechukz/GanttChart)
   - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
   - [Hexoust Game](https://github.com/Megomaz/Software-Engineering-project-2-23739461-23318116-23318136)
-  - [Department Vacancies Database](https://github.com/kenechukz/DepartmentsVacanciesDatabase-)
  
 - Have a look at my pinned repositories!
  
