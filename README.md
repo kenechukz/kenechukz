@@ -1,25 +1,7 @@
 <h1>Hi, I'm Kene! <br/><a href="https://github.com/kenechukz">Programmer</a>, <a href="https://www.linkedin.com/in/kene-declan-chukwu/">Computer Science Student</a></h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practicing Data Structures and Algorithms](https://github.com/kenechukz/LeetcodeDSA-Practice)
-- <b>Web Apps</b>
-  -  [Interaction Tracker](https://github.com/kenechukz/take_home_project)
-  -  [ReVibe - AI powered thrift store marketplace (Built during 2025 Google BGN Hackathon)](https://github.com/bgn-hackerton-2025/backend)
-  -  [@everyone - One button, instant help (Built during HackEurope 2026)](https://github.com/noel-friedrich/-everyone)
-- <b>Freelance Websites</b>
-  -  [Portfolio Site](https://kpdesigns.dev)
-  -  [Medical GP Page](https://www.inspiredgp.com/)
-  -  [Dance Competition Company Page](https://www.danceempire.org/)
-- <b>School Projects</b>
-  - [Kanban Board](https://github.com/kenechukz/KanbanBoard)
-  - [Hexoust Game](https://github.com/Megomaz/Software-Engineering-project-2-23739461-23318116-23318136)
  
 - Have a look at my pinned repositories!
- 
-  
-    
+      
 <h2>Certifications</h2>
 
 <ul>
