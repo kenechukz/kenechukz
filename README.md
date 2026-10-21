@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kene! <br/><a href="https://github.com/kenechukz">Programmer</a>, <a href="https://www.linkedin.com/in/kene-declan-chukwu/">Computer Science Student</a></h1>
+<h1>Hi, I'm Kene! <br/>Programmer, Computer Science Student</h1>
  
 - Have a look at my pinned repositories!
       
@@ -58,6 +58,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DeclanChukwu | LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 
